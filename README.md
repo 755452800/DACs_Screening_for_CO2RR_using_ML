@@ -16,14 +16,15 @@ You can build up the environment for this repo and reproduce the results followi
 git clone https://github.com/755452800/DACs_Screening_for_CO2RR_using_ML.git
 ```
 
-3. Change to the project directory and create the conda environment:
+3. Change to the project directory, create the python environment and activate the environment:
 
 ```bash
 cd DACs_Screening_for_CO2RR_using_ML
 conda env create -f environment.yml
+conda activate DACs_Screening
 ```
 
-4. Check the source data and codes, and run the scripts to reproduce the results.
+4. Check the source data and codes, and run the scripts under the `DACs_Screening` environment to reproduce the results.
 
 ## How to cite
 
