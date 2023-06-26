@@ -23,7 +23,7 @@ cd DACs_Screening_for_CO2RR_using_ML
 conda env create -f environment.yml
 ```
 
-4. Check the source data and code, and run the scripts to reproduce the results.
+4. Check the source data and codes, and run the scripts to reproduce the results.
 
 ## How to cite
 
