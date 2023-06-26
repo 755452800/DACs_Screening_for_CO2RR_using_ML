@@ -26,6 +26,9 @@ conda activate DACs_Screening
 
 4. Check the source data and codes, and run the scripts under the `DACs_Screening` environment to reproduce the results.
 
+
+*Note that `plt.show()` in the scripts is a blocking function, so you need manually close the figures to continue if you're running the scripts in a terminal.*
+
 ## How to cite
 
 `TBC`
