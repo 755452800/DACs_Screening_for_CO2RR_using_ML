@@ -1,7 +1,7 @@
 # DACs_Screening_for_CO2RR_using_ML
 
 This repo holds the source data and codes for the research paper entitled 
-"A Universal Machine Learning-Accelerated Paradigm for the Rapid Screening of Efficient Dual-Atom Electrocatalysts in CO<sub>2</sub> Reduction"
+*"A Universal Machine Learning-Accelerated Paradigm for the Rapid Screening of Efficient Dual-Atom Electrocatalysts in CO<sub>2</sub> Reduction"*.
 
 ## How to use
 
