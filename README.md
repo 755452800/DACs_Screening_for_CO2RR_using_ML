@@ -1,7 +1,7 @@
 # DACs_Screening_for_CO2RR_using_ML
 
 This repo holds the source data and codes for the research paper entitled 
-*TBC*.
+*Accelerating the design of catalysts for CO2 electroreduction to HCOOH: A data-driven DFT-ML screening of dual atom catalysts*.
 
 ## How to use
 
